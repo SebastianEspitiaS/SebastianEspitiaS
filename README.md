@@ -11,6 +11,7 @@
 
 <h1 align="center">¡Hola! 👋 Soy Sebastian Espitia</h1>
 
+---
 
 ## 🚀 Sobre mí
 
