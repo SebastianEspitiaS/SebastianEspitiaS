@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador de software con más de **1 año y medio de experiencia**, trabajando principalmente con **Python** y **SQL**.  
+Soy desarrollador de software con más de **2 años de experiencia**, trabajando principalmente con **Python** y **SQL**.  
 Actualmente me enfoco en **Azure Synapse Analytics**, diseñando y administrando **pipelines de datos** que mejoran procesos de integración y análisis.  
 
 También tengo experiencia en:  
