@@ -47,5 +47,5 @@ Me considero una persona **colaborativa y comunicativa**, con interés constante
 <p align="center">✨ Si puedes imaginarlo, puedes programarlo ✨</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SebastianEspitiaS/SebastianEspitiaS/f98c06392bdac8e972d03332cea3fed377977efa/Logo%20Github.png" alt="Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/SebastianEspitiaS/SebastianEspitiaS/f98c06392bdac8e972d03332cea3fed377977efa/Logo%20Github.png" alt="Logo" width="200"/>
 </p>
