@@ -12,7 +12,7 @@
 <h1 align="center">¡Hola! 👋 Soy Sebastián Espitia</h1>
 
 <p align="center">
-  <b>Gestor de Soluciones (Data & Analytics) | Ingeniero de Datos</b>
+  <b>Data & Analytics | Ingeniero de Datos</b>
 </p>
 
 ---
