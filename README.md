@@ -44,7 +44,7 @@ Me considero una persona **colaborativa y comunicativa**, con fuertes habilidade
 - Pipelines ETL / ELT, Ingesta de datos, Migración de plataformas, Soporte a usuarios internos, Resolución de incidencias.
 
 **🧰 Herramientas:**
-- Git, GitHub, Excel Avanzado, Metodologías Ágiles (Scrum).
+- Git, GitHub.
 
 ---
 
